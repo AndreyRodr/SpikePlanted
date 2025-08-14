@@ -12,7 +12,7 @@
 ## 📋 Sumário
 
 - [📖 Sobre o Projeto](#-sobre-o-projeto)
-- [🛠️ Tech Stack](#-tech-stack)
+- [🛠️ Tech Stack](#tech-stack)
 - [📂 Estrutura do Projeto](#-estrutura-do-projeto)
 - [👨‍💻 Autores](#-autores)
 - [🤝 Quer contribuir?](#-quer-contribuir)
