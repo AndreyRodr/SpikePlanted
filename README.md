@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./frontend/public/IMGs/Logotipo.png" width="100" style="border-radius: 50px;"/>
+  <img src="./frontend/public/IMGs/Logotipo.png" width="100" style="border-radius: 10px;"/>
   <h1>SpikePlanted</h1>
   <p><em>Uma solução completa para análise de dados do cenário competitivo de Valorant, com uma API própria alimentada por web scraping e dashboards interativos na web (React) e no Power BI.</em></p>
   <br>
